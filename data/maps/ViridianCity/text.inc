@@ -70,20 +70,18 @@ ViridianCity_Text_WatchThatToLearnBasics:: @ 817DEEB
     .string "of being a POKéMON TRAINER.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch:: @ 817DF61
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "But I made it too strong.\n"
-    .string "It gave me a headache…\p"
+    .string "Mmm...\n"
+    .string "Seems like I was pretty drunk!\l"
+    .string "My head hurts...\p"
     .string "Incidentally, are you filling your\n"
     .string "POKéDEX?\p"
     .string "At first, focus on weakening the\n"
     .string "POKéMON before trying to catch it.$"
 
 ViridianCity_Text_HowsTeachyTVHelping:: @ 817E046
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
-    .string "But I made it too strong.\n"
-    .string "It gave me a headache…\p"
+    .string "Mmm...\n"
+    .string "Seems like I was pretty drunk!\l"
+    .string "My head hurts...\p"
     .string "Incidentally, is my old TEACHY TV\n"
     .string "helping you?$"
 
