@@ -42,7 +42,7 @@ ViridianCity_Text_ThisIsPrivateProperty:: @ 817DD03
     .string "...Hey! I said don't go!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons:: @ 817DD4E
-    .string "Mmm......\n"
+    .string "Mmm...\n"
     .string "Seems like i was pretty drunk!\p"
     .string "Hm?\n"
     .string "What is that red box you have?\p"
