@@ -7,7 +7,7 @@ Route11_Text_HugoDefeat:: @ 8184F15
 
 Route11_Text_HugoPostBattle:: @ 8184F2E
     .string "POKéMON is life!\n"
-    .string "And to live is to play games!$"
+    .string "And to live is to gamble!$"
 
 Route11_Text_JasperIntro:: @ 8184F5D
     .string "Competition!\n"

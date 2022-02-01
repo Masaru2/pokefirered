@@ -11,14 +11,14 @@ Route8_Text_AidanPostBattle:: @ 818410E
 
 Route8_Text_StanIntro:: @ 818412F
     .string "All right!\n"
-    .string "Let's play a game!$"
+    .string "Let's roll the dice!$"
 
 Route8_Text_StanDefeat:: @ 818414D
     .string "Drat!\n"
     .string "Came up short!$"
 
 Route8_Text_StanPostBattle:: @ 8184162
-    .string "Things didn't work today.$"
+    .string "Lady luck's not with me today.$"
 
 Route8_Text_GlennIntro:: @ 818417C
     .string "You should be informed.\n"
@@ -81,13 +81,13 @@ Route8_Text_MeganPostBattle:: @ 81843D2
     .string "think he's mean.$"
 
 Route8_Text_RichIntro:: @ 8184432
-    .string "I'm a rambling, gaming dude!$"
+    .string "I'm a rambling, gambling dude!$"
 
 Route8_Text_RichDefeat:: @ 818444F
-    .string "Missed the big chance!$"
+    .string "Missed the big score!$"
 
 Route8_Text_RichPostBattle:: @ 8184466
-    .string "Playing games and POKéMON are like\n"
+    .string "Gambling and POKéMON are like\n"
     .string "eating peanuts! I just can't stop!$"
 
 Route8_Text_JuliaIntro:: @ 81844AC

@@ -26,9 +26,9 @@ ViridianCity_Text_ExplainCaterpieWeedle:: @ 817DBE4
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet:: @ 817DC4E
     .string "Oh, Grandpa!\n"
-    .string "Don't be so mean!\p"
-    .string "I'm so sorry.\n"
-    .string "He hasn't had his coffee yet.$"
+    .string "Don't pass out here!\p"
+    .string "Sorry, but we'll have to\n"
+    .string "wait here till he sobers up.$"
 
 ViridianCity_Text_GoShoppingInPewterOccasionally:: @ 817DC99
     .string "I go shopping in PEWTER CITY\n"
@@ -37,13 +37,13 @@ ViridianCity_Text_GoShoppingInPewterOccasionally:: @ 817DC99
     .string "VIRIDIAN FOREST when I go.$"
 
 ViridianCity_Text_ThisIsPrivateProperty:: @ 817DD03
-    .string "I absolutely forbid you from\n"
-    .string "going through here!\p"
-    .string "This is private property!$"
+    .string "Urgh! Hic... Hold on there!\n"
+    .string "Lissen to what I hafta say!\p"
+    .string "...Hey! I said don't go!$"
 
 ViridianCity_Text_ShowYouHowToCatchMons:: @ 817DD4E
-    .string "Well, now, I've had my coffee, and\n"
-    .string "that's what I need to get going!\p"
+    .string "Mmm......\n"
+    .string "Seems like i was pretty drunk!\p"
     .string "Hm?\n"
     .string "What is that red box you have?\p"
     .string "Ah, so you're working on your\n"

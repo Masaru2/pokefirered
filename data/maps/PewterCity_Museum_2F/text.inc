@@ -46,7 +46,8 @@ PewterCity_Museum_1F_Text_PikachuSoonIPromise:: @ 8190C60
     .string "Yeah, a PIKACHU soon, I promise!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle:: @ 8190C81
-    .string "Space Shuttle$"
+    .string "Space Shuttle\n"
+	.string "Columbia$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon:: @ 8190C8F
     .string "A meteorite that fell on MT. MOON.\n"
